@@ -1,2 +1,2 @@
 # machine-learning
-about machine learning things
+Everything about machine learning is here
