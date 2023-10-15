@@ -1,0 +1,3 @@
+The most classic algorithms for decision trees include: ID3, C4.5 and CART algorithms. ID3 is similar to the C4.5 algorithm. The information criterion used by C4.5 in feature selection is the information gain ratio, while ID3 uses information gain; because Information gain tends to select features with more possible values (for example, if a feature has 5 possible values, its information gain will be greater than the information gain with 2 feature values).
+1. Implement C5.0 algorithm
+Data set: German credit card data; use the file german.data, which provides 20 attributes (13 category attributes + 7 numeric attributes) for a total of 1,000 instances. The last column represents the category (1 (good) and 2 (bad) ))
